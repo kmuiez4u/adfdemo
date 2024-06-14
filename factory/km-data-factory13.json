@@ -1,0 +1,9 @@
+{
+	"name": "km-data-factory13",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "acd21e9b-9311-48a6-890c-a02c34737644",
+		"tenantId": "bc560752-6684-47d1-8a21-9009e3ade681"
+	}
+}
